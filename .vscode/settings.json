@@ -1,0 +1,19 @@
+{
+  // Cursor/VS Code 语言设置
+  // 注意：这个文件主要用于项目级别的设置
+  // 设置页面的语言主要由全局语言包控制
+  
+  // 如果设置页面还是英文，请按照以下步骤操作：
+  // 1. 按 Ctrl+Shift+P 打开命令面板
+  // 2. 输入 "Configure Display Language"
+  // 3. 选择 "zh-cn" (简体中文)
+  // 4. 如果列表中没有，选择 "Install additional languages..."
+  // 5. 安装完成后重启 Cursor
+  
+  // 项目特定设置
+  "files.encoding": "utf8",
+  "files.eol": "\n",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
+

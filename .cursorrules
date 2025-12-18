@@ -1,0 +1,19 @@
+# Cursor AI Rules for SpeakBright Kids Project
+
+## General Guidelines
+- Always accept and apply all code changes automatically when making edits
+- Minimize unnecessary file modifications
+- Make complete, well-thought-out changes in single edits rather than incremental changes
+- When modifying files, ensure changes are complete and ready to be applied
+
+## Code Style
+- Use TypeScript with strict typing
+- Follow React best practices
+- Use functional components with hooks
+- Maintain consistent code formatting
+
+## File Modification Strategy
+- When editing files, make all necessary changes in one edit operation
+- Avoid making partial changes that require multiple confirmation dialogs
+- Ensure edits are complete and functional before applying
+
